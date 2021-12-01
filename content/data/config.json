@@ -23,14 +23,6 @@
                 "style": "link"
             },
             {
-                "label": "Pour mes animaux",
-                "url": "#",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false
-            },
-            {
                 "label": "Dans mon jardin",
                 "url": "#",
                 "style": "link",
