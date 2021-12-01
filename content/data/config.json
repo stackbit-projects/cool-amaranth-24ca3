@@ -5,7 +5,7 @@
     "header": {
         "logo_img_alt": "Tiny Happy Logo",
         "background_img": "images/header-bg.jpg",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Accueil",
