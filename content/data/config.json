@@ -3,7 +3,6 @@
     "path_prefix": "/",
     "palette": "green",
     "header": {
-        "logo_img": "/images/TH-identite-visuelle-logo-blanc.png",
         "logo_img_alt": "Tiny Happy Logo",
         "background_img": "images/header-bg.jpg",
         "has_nav": true,
