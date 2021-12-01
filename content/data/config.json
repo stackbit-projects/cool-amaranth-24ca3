@@ -23,11 +23,6 @@
                 "style": "link"
             },
             {
-                "label": "Dans ma cuisine",
-                "url": "/contact",
-                "style": "link"
-            },
-            {
                 "label": "Pour mes animaux",
                 "url": "#",
                 "style": "link",
