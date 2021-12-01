@@ -4,7 +4,7 @@
     "palette": "green",
     "header": {
         "logo_img_alt": "Tiny Happy Logo",
-        "background_img": "images/header-bg.jpg",
+        "background_img": "/images/Capture d’écran 2021-11-28 à 15.17.21.png",
         "has_nav": true,
         "nav_links": [
             {
