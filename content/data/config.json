@@ -52,14 +52,6 @@
                 "no_follow": false
             },
             {
-                "label": "Entretenir ma maison",
-                "url": "#",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false
-            },
-            {
                 "label": "Comprendre ma planète",
                 "url": "#",
                 "style": "link",
