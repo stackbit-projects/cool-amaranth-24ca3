@@ -1,7 +1,7 @@
 {
     "title": "Stackbit Fjord Theme",
     "path_prefix": "/",
-    "palette": "green",
+    "palette": "blue",
     "header": {
         "logo_img_alt": "Tiny Happy Logo",
         "background_img": "images/header-bg.jpg",
