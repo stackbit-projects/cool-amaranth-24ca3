@@ -544,6 +544,7 @@ models:
         type: string
         label: title
         description: title of the page
+        required: true
     labelField: layout
     hideContent: true
     singleInstance: true
