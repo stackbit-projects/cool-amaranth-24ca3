@@ -554,7 +554,8 @@ models:
         label: Keep reading link label
       - name: seo
         type: model
-        models: []
+        models:
+          - stackbit_page_meta
         label: seo
     labelField: layout
     hideContent: true
