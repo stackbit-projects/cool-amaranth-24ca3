@@ -547,7 +547,7 @@ models:
         required: true
       - name: ''
         type: string
-        label: ''
+        label: Show keep reading link
     labelField: layout
     hideContent: true
     singleInstance: true
