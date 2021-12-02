@@ -550,6 +550,7 @@ models:
         label: Show keep reading link
       - name: ''
         type: string
+        label: Keep reading link label
     labelField: layout
     hideContent: true
     singleInstance: true
