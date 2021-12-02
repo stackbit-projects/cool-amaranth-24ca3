@@ -556,7 +556,7 @@ models:
         type: model
         models:
           - stackbit_page_meta
-        label: seo
+        label: Seo
     labelField: layout
     hideContent: true
     singleInstance: true
