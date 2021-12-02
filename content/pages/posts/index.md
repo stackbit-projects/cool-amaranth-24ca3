@@ -1,5 +1,5 @@
 ---
-title: Accueil
+title: Prendre soin de moi
 has_more_link: true
 more_link_text: Lire la suite
 seo:
