@@ -537,7 +537,7 @@ models:
     labelField: title
   prendresoindemoi:
     type: page
-    label: prendresoindemoi
+    label: Prendre soin de moi
     layout: prendresoindemoi
     fields:
       - name: title
