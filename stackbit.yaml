@@ -545,7 +545,7 @@ models:
         label: title
         description: title of the page
         required: true
-      - name: ''
+      - name: more_link_text
         type: boolean
         label: Show keep reading link
     labelField: layout
