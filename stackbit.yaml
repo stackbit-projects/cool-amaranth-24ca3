@@ -535,3 +535,7 @@ models:
               name: relativeUrl
               label: Relative Url
     labelField: title
+  prendresoindemoi:
+    type: page
+    label: prendresoindemoi
+    layout: prendresoindemoi
