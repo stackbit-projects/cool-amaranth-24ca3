@@ -542,7 +542,7 @@ models:
     fields:
       - name: title
         type: string
-        label: ''
+        label: title
     labelField: layout
     hideContent: true
     singleInstance: true
