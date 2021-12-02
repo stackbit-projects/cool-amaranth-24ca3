@@ -555,6 +555,7 @@ models:
       - name: seo
         type: model
         models: []
+        label: seo
     labelField: layout
     hideContent: true
     singleInstance: true
