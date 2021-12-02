@@ -539,3 +539,7 @@ models:
     type: page
     label: test
     layout: test
+    fields: []
+    labelField: layout
+    singleInstance: true
+    file: ''
