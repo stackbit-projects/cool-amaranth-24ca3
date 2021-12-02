@@ -539,3 +539,6 @@ models:
     type: page
     label: prendresoindemoi
     layout: prendresoindemoi
+    fields: []
+    labelField: layout
+    hideContent: true
