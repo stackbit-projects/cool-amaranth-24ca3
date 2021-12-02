@@ -545,6 +545,8 @@ models:
         label: title
         description: title of the page
         required: true
+      - name: ''
+        type: string
     labelField: layout
     hideContent: true
     singleInstance: true
