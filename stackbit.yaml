@@ -535,29 +535,3 @@ models:
               name: relativeUrl
               label: Relative Url
     labelField: title
-  prendresoindemoi:
-    type: page
-    label: Prendre soin de moi
-    layout: prendresoindemoi
-    fields:
-      - name: title
-        type: string
-        label: title
-        description: title of the page
-        required: true
-      - name: has_more_link
-        type: boolean
-        label: Show keep reading link
-        description: Display the keep reading link in the post feed
-      - name: more_link_text
-        type: string
-        label: Keep reading link label
-      - name: seo
-        type: model
-        models:
-          - stackbit_page_meta
-        label: Seo
-    labelField: layout
-    hideContent: true
-    singleInstance: true
-    file: index.md
