@@ -548,7 +548,7 @@ models:
       - name: more_link_text
         type: boolean
         label: Show keep reading link
-      - name: ''
+      - name: more_link_text
         type: string
         label: Keep reading link label
     labelField: layout
