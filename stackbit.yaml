@@ -543,6 +543,7 @@ models:
       - name: title
         type: string
         label: title
+        description: title of the page
     labelField: layout
     hideContent: true
     singleInstance: true
