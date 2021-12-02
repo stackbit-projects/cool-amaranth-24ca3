@@ -546,7 +546,7 @@ models:
         description: title of the page
         required: true
       - name: ''
-        type: string
+        type: boolean
         label: Show keep reading link
     labelField: layout
     hideContent: true
