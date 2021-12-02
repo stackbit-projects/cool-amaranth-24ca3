@@ -1,5 +1,5 @@
 ---
-title: Abo
+title: Prendre soin de moi
 subtitle: This is a short page about me and my work
 img_path: /images/testsoindemoi.png
 seo:
