@@ -542,4 +542,4 @@ models:
     fields: []
     labelField: layout
     singleInstance: true
-    file: content/pages/posts
+    file: /content/pages/posts
