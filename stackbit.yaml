@@ -548,6 +548,7 @@ models:
       - name: has_more_link
         type: boolean
         label: Show keep reading link
+        description: Display the keep reading link in the post feed
       - name: more_link_text
         type: string
         label: Keep reading link label
