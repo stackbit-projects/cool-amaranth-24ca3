@@ -542,3 +542,5 @@ models:
     fields: []
     labelField: layout
     hideContent: true
+    singleInstance: true
+    file: ''
