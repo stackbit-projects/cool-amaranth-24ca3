@@ -547,6 +547,7 @@ models:
         required: true
       - name: ''
         type: string
+        label: ''
     labelField: layout
     hideContent: true
     singleInstance: true
