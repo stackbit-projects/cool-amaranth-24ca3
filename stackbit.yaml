@@ -553,7 +553,8 @@ models:
         type: string
         label: Keep reading link label
       - name: ''
-        type: string
+        type: model
+        models: []
     labelField: layout
     hideContent: true
     singleInstance: true
