@@ -538,7 +538,7 @@ models:
   test:
     type: page
     label: test
-    layout: test
+    layout: index.md
     fields: []
     labelField: layout
     singleInstance: true
