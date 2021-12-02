@@ -552,7 +552,7 @@ models:
       - name: more_link_text
         type: string
         label: Keep reading link label
-      - name: ''
+      - name: seo
         type: model
         models: []
     labelField: layout
