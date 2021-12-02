@@ -62,14 +62,6 @@
                 "style": "icon",
                 "icon_class": "facebook",
                 "new_window": true
-            },
-            {
-                "label": "Nous contacter",
-                "url": "#",
-                "style": "icon",
-                "icon_class": "github",
-                "new_window": false,
-                "no_follow": false
             }
         ],
         "title": "Tiny Happy",
