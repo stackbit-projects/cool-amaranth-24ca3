@@ -540,8 +540,9 @@ models:
     label: prendresoindemoi
     layout: prendresoindemoi
     fields:
-      - name: ''
+      - name: title
         type: string
+        label: ''
     labelField: layout
     hideContent: true
     singleInstance: true
