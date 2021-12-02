@@ -535,3 +535,7 @@ models:
               name: relativeUrl
               label: Relative Url
     labelField: title
+  test:
+    type: page
+    label: test
+    layout: test
