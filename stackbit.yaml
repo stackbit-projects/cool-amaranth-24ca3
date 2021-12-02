@@ -541,4 +541,4 @@ models:
     layout: prendresoindemoi
     fields: []
     labelField: layout
-    hideContent: false
+    hideContent: true
