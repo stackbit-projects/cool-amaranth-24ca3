@@ -543,4 +543,4 @@ models:
     labelField: layout
     hideContent: true
     singleInstance: true
-    file: ''
+    file: index.md
