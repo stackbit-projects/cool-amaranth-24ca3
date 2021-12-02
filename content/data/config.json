@@ -70,16 +70,7 @@
     },
     "footer": {
         "content": "&copy; Tiny Happy - Tous droits réservés",
-        "links": [
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false
-            }
-        ]
+        "links": []
     },
     "domain": "https://cool-amaranth-24ca3.netlify.app",
     "favicon": "/images/TH-identite-visuelle-favicon-site-web.png"
