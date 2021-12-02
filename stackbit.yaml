@@ -548,6 +548,8 @@ models:
       - name: more_link_text
         type: boolean
         label: Show keep reading link
+      - name: ''
+        type: string
     labelField: layout
     hideContent: true
     singleInstance: true
