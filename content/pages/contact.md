@@ -59,7 +59,6 @@ seo:
       value: images/contact.jpg
       relativeUrl: true
 layout: contact
-subtitle: Veuillez remplir vos informations pour nous contacter
 ---
 
 To get in touch fill the form below.
