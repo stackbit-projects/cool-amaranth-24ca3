@@ -1,6 +1,6 @@
 ---
 title: Get in Touch
-img_path: images/contact.jpg
+img_path: /images/Plan de travail – 5.png
 form_id: contactForm
 form_action: /success
 form_fields:
