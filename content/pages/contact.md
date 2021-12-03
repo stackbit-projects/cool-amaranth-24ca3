@@ -31,7 +31,7 @@ form_fields:
     label: >-
       En remplissant ce formulaire, vous acceptez de transmettre vos
       informations et d'être contactés.
-submit_label: 'Envoyer '
+submit_label: Envoyer
 seo:
   title: Get in Touch
   description: This is the contact page
