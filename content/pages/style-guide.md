@@ -35,7 +35,7 @@ seo:
       value: images/style-guide.jpg
       relativeUrl: true
 layout: page
-img_path: /images/Plan de travail – 6-a5112a14.png
+img_path: /images/Plan de travail – 6-31a8e188.png
 ---
 
 **This is a paragraph**. Paragraphs are usually represented in visual media as blocks of text separated from adjacent blocks by blank lines and/or first-line [indentation](https://en.wikipedia.org/wiki/Indentation_(typesetting)), but <abbr title="HyperText Markup Language">HTML</abbr> paragraphs can be any structural grouping of related content, such as images or form fields.
