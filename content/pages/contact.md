@@ -1,5 +1,5 @@
 ---
-title: Get in Touch
+title: Nous contacter
 img_path: /images/Plan de travail – 5.png
 form_id: contactForm
 form_action: /success
