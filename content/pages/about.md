@@ -1,7 +1,7 @@
 ---
 title: About
 subtitle: This is a short page about me and my work
-img_path: /images/testsoindemoi.png
+img_path: /images/Plan de travail – 7.png
 seo:
   title: About Me
   description: A page about me and my work
