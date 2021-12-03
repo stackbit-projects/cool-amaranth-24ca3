@@ -1,6 +1,6 @@
 ---
 title: test
-subtitle: lorem-ipsum
+subtitle: test blabla
 date: '2021-12-02'
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
