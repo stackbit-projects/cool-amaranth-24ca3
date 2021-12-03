@@ -58,5 +58,6 @@ seo:
       value: images/contact.jpg
       relativeUrl: true
 layout: contact
+img_path: /images/Plan de travail – 5-0b510cdc.png
 ---
 Veuillez remplir vos informations pour nous contacter
