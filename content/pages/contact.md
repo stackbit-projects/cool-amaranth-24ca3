@@ -28,9 +28,7 @@ form_fields:
     default_value: Votre message
   - input_type: checkbox
     name: consent
-    label: >-
-      I understand that this form is storing my submitted information so I can
-      be contacted.
+    label: 'En remplissant ce formulaire, vous acceptez '
 submit_label: Send Message
 seo:
   title: Get in Touch
