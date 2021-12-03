@@ -1,3 +1,3 @@
 ---
-title: Prendre soin de moi
+title: "Prendre soin de moi"
 ---
