@@ -17,7 +17,7 @@ form_fields:
   - input_type: select
     name: subject
     label: Objet
-    default_value: Please select
+    default_value: Sélectionner
     options:
       - Error on the site
       - Sponsorship
