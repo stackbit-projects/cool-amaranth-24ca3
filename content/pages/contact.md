@@ -30,7 +30,7 @@ form_fields:
     name: consent
     label: >-
       En remplissant ce formulaire, vous acceptez de transmettre vos
-      informations 
+      informations et d'être potentiellement 
 submit_label: Send Message
 seo:
   title: Get in Touch
