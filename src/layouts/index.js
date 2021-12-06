@@ -21,7 +21,7 @@ export default {
     post
 };
 
-export default class Home extends React.Component {
+export default class Index extends React.Component {
     renderPost(post, index, hasMoreLink, moreLinkText) {
         const title = _.get(post, 'title');
         const thumbImage = _.get(post, 'thumb_img_path');
