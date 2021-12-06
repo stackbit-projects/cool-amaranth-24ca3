@@ -390,7 +390,7 @@ models:
         name: category
         label: category
         description: Hide the left side in the single post
-        default: ""
+        default: ''
       - type: model
         name: seo
         models:
@@ -539,6 +539,8 @@ models:
             - type: boolean
               name: relativeUrl
               label: Relative Url
+      - name: ''
+        type: string
     labelField: title
   test:
     type: page
