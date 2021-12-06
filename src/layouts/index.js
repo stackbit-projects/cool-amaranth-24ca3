@@ -14,13 +14,6 @@ import { getPageUrl, Link, withPrefix } from '../utils';
 
 export { contact, home, page, post };
 
-export default {
-    contact,
-    home,
-    page,
-    post
-};
-
 export default class Index extends React.Component {
     renderPost(post, index, hasMoreLink, moreLinkText) {
         const title = _.get(post, 'title');
