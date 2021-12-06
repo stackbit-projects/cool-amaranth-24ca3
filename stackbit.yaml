@@ -544,6 +544,7 @@ models:
       - name: category
         type: string
         label: category
+        description: type de contenu
     labelField: title
   test:
     type: page
