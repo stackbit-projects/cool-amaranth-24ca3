@@ -541,13 +541,14 @@ models:
               label: Relative Url
       - name: ''
         type: string
+        label: ''
       - name: category
         type: string
         label: category
         description: type de contenu
         default: '""'
     labelField: title
-  test:
+  index:
     type: page
     label: test
     layout: index.md
