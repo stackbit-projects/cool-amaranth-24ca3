@@ -388,7 +388,7 @@ models:
         default: false
       - type: boolean
         name: category
-        label: Hide sidebar
+        label: category
         description: Hide the left side in the single post
         default: false
       - type: model
