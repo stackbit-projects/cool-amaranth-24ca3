@@ -545,6 +545,7 @@ models:
         type: string
         label: category
         description: type de contenu
+        default: '""'
     labelField: title
   test:
     type: page
