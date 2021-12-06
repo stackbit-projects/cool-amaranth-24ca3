@@ -543,6 +543,7 @@ models:
         type: string
       - name: category
         type: string
+        label: category
     labelField: title
   test:
     type: page
