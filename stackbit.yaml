@@ -541,7 +541,7 @@ models:
               label: Relative Url
       - name: ''
         type: string
-      - name: ''
+      - name: category
         type: string
     labelField: title
   test:
