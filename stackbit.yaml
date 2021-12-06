@@ -554,5 +554,4 @@ models:
     layout: index.md
     fields: []
     labelField: layout
-    singleInstance: true
     description: Page d'indexation
