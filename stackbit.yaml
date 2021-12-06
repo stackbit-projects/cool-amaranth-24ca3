@@ -386,11 +386,6 @@ models:
         label: Hide sidebar
         description: Hide the left side in the single post
         default: false
-      - type: string
-        name: category
-        label: category
-        description: Hide the left side in the single post
-        default: ''
       - type: model
         name: seo
         models:
