@@ -9,5 +9,7 @@ export default {
     contact,
     home,
     page,
-    post
+    post,
+    renderPost(post, index, hasMoreLink, moreLinkText) {
+        
 };
