@@ -550,7 +550,7 @@ models:
     labelField: title
   index:
     type: page
-    label: test
+    label: index
     layout: index.md
     fields: []
     labelField: layout
