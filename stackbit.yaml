@@ -556,3 +556,4 @@ models:
     labelField: layout
     singleInstance: true
     file: /content/pages/posts
+    description: Page d'indexation
