@@ -12,7 +12,7 @@ import Header from '../components/Header';
 import Footer from '../components/Footer';
 import { getPageUrl, Link, withPrefix } from '../utils';
 
-export { contact, home, page, post };
+export { contact, page, post };
 
 export default class Index extends React.Component {
     renderPost(post, index, hasMoreLink, moreLinkText) {
