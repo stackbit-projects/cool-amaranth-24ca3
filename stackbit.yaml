@@ -386,7 +386,11 @@ models:
         label: Hide sidebar
         description: Hide the left side in the single post
         default: false
-      -
+      - type: boolean
+        name: hide_header
+        label: Hide sidebar
+        description: Hide the left side in the single post
+        default: false
       - type: model
         name: seo
         models:
