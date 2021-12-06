@@ -11,5 +11,6 @@ export default {
     page,
     post,
     renderPost(post, index, hasMoreLink, moreLinkText) {
+        return 
     }
 };
