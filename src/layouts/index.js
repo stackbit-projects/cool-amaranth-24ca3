@@ -1,7 +1,4 @@
-import contact from './contact';
-import home from './home';
-import page from './page';
-import index from './post';
+
 
 import React from 'react';
 import _ from 'lodash';
